@@ -1,6 +1,6 @@
 # Kntnt's base theme for Beaver Themer
 
-Minimalitic WordPress theme for *[Beaver Themer](https://www.wpbeaverbuilder.com/beaver-themer/)* and *[Beaver Builder](https://www.wpbeaverbuilder.com/)*.
+Minimalistic WordPress theme for *[Beaver Themer](https://www.wpbeaverbuilder.com/beaver-themer/)* and *[Beaver Builder](https://www.wpbeaverbuilder.com/)*.
 
 ## Description
 
