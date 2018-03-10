@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-sass-chokidar": "^1.1.0"
+  },
+  "scripts": {
+    "build": "node-sass-chokidar --output-style=expanded --indent-type=space --indent-width=2 --linefeed=lf --include-path scss sass/style.scss style.css",
+    "watch": "npm run build && npm run build -- --watch"
+  }
+}

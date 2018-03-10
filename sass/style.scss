@@ -1,0 +1,33 @@
+/*!
+Theme Name: Kntnt's base theme for Beaver Themer
+Theme URI: https://github.com/TBarregren/kntnt-base-theme
+Author: Thomas Barregren at Kntnt Sweden AB
+Author URI: https://www.kntnt.com/
+Description: Minimalitic WordPress theme for Beaver Themer and Beaver Builder.
+Version: 1.0.0
+License: GNU General Public License v3 or later
+License URI: LICENSE
+Text Domain: kntnt_builder_theme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+Minimalitic WordPress theme for Beaver Themer and Beaver Builder.
+
+Kntnt's base theme for Beaver Themer is based on Automattic's thorough and well-made starter theme _s (pronounced "underscores").
+
+While _s is intended as a starting point for building theme by hand, Kntnt base theme is intended as a starting point for building theme by using Beaver Themer and Beaver Builder.
+*/
+
+@import "variables-site/variables-site";
+@import "mixins/mixins-master";
+@import "normalize";
+@import "typography/typography";
+@import "elements/elements";
+@import "forms/forms";
+@import "navigation/navigation";
+@import "modules/accessibility";
+@import "modules/alignments";
+@import "modules/clearings";
+@import "site/secondary/widgets";
+@import "site/site";
+@import "modules/infinite-scroll";
+@import "media/media";
